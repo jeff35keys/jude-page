@@ -14,7 +14,7 @@ box-shadow:2px 2px 10px ;
 }
 h1{
 color: aliceblue;
-}Next
+}
 p{
     color: aliceblue;
     font-size: 1rem;
@@ -37,6 +37,5 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative;
-    z-index: -1;
+  
 }

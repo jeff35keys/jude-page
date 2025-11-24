@@ -1,0 +1,46 @@
+body{
+    overflow: clip;
+}
+img{
+    height: 100vh;
+    width: 100vw;
+}
+.container{
+    background-image:url(images/JB\ 2.png);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+button{
+    height: 60px;
+    width: 100px;
+}
+.bt2{
+background-color: blue;
+color: aliceblue;
+}
+.bt3{
+background-color: blue;
+color: aliceblue;
+border-radius: 18px;
+}
+.bt4{
+
+
+border-radius: 18px;
+}
+.firstbuttons{
+    gap: 40px;
+    display: flex;
+}
+.secondbuttons{
+    gap: 40px;
+    display: flex;
+}
